@@ -28,7 +28,7 @@ Entregar um protótipo com 4 telas funcionando no navegador, usando o TSP para o
 | Bruno Messias | Líder de Projeto | Team Leader |
 | Lucas Teixeira | Desenvolvedor | Planning Manager |
 | Gabriel Ferreira | Web Designer/Frontend | Support Manager |
-| Braga | Analista de Qualidade e Teste | Quality Manager |
+| Wellington Braga | Analista de Qualidade e Teste | Quality Manager |
 
 ## Telas do produto
 1. Início
