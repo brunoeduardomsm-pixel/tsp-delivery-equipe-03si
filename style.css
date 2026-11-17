@@ -6,7 +6,7 @@ body {
 }
 
 header {
-  background-color: #800080;
+  background-color: #e63946;
   color: white;
   padding: 16px;
 }
@@ -28,14 +28,14 @@ input {
 
 .cta-button {
   padding: 12px 24px;
-  background-color: #800080;
+  background-color: #e63946;
   color: white;
   text-decoration: none;
   transition: background-color 0.3s;
 }
 
 .cta-button:hover {
-  background-color: #a64ca6;
+  background-color: #f28b94;
 }
 
 .card {
@@ -57,6 +57,6 @@ input {
 }
 
 .etapas li.atual {
-  color: #800080;
+  color: #e63946;
   font-weight: bold;
 }
