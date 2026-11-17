@@ -46,7 +46,7 @@ Entregar um protótipo com 4 telas funcionando no navegador, usando o TSP para o
 
 | Item | Link |
 |---|---|
-| Produto | (a completar) |
-| Planilha de planejamento TSP | (a completar) |
+| Produto | [Abrir o site](https://brunoeduardomsm-pixel.github.io/tsp-delivery-equipe-03si/) |
+| Planilha de planejamento TSP | [Abrir planilha](https://docs.google.com/spreadsheets/d/1XUnnqqtMQnx95SxCWFkgI1XcdUOnoHlsZXaYxjsckxM) |
 | Planilhas PSP | (a completar) |
 | Registro de reuniões | [reunioes.md](reunioes.md) |
