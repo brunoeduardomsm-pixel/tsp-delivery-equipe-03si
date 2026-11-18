@@ -60,3 +60,25 @@ input {
   color: #e63946;
   font-weight: bold;
 }
+.pratos {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  justify-content: center;
+}
+.pratos .card {
+  width: 260px;
+}
+.card img {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+footer {
+  background: #e63946;
+  color: white;
+  text-align: center;
+  padding: 12px;
+  margin-top: 24px;
+}
