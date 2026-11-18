@@ -50,3 +50,5 @@ Entregar um protótipo com 4 telas funcionando no navegador, usando o TSP para o
 | Planilha de planejamento TSP | [Abrir planilha](https://docs.google.com/spreadsheets/d/1XUnnqqtMQnx95SxCWFkgI1XcdUOnoHlsZXaYxjsckxM) |
 | Planilhas PSP | [Bruno](https://docs.google.com/spreadsheets/d/128nK6-gyPRFYZl3AHpwyv0stMtpmujKfJmJMGWjrUnY/edit?gid=0#gid=0) · [Lucas](https://docs.google.com/spreadsheets/d/18FIDAPmKVV9xXwvZAlZwdRJQAvpvJ0uSLWdA4gcF3iU/edit?pli=1&gid=0#gid=0) · [Gabriel](https://docs.google.com/spreadsheets/d/1gyCD4mc7o19p5Bz5GpHTEe6ZvjqF9pSc3TRWI_yo1qw/edit?gid=0#gid=0) · [Wellington](https://docs.google.com/spreadsheets/d/1Nat0_lVCixfZYrJnAqgPle_Z_49QWRcHu1uEGOx6goM/edit?gid=0#gid=0) |
 | Registro de reuniões | [reunioes.md](reunioes.md) |
+| Testes e revisão | [testes.md](testes.md) |
+| Retrospectiva | [retrospectiva.md](retrospectiva.md) |
